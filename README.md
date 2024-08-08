@@ -1,10 +1,10 @@
 # Features
 
-Using node >= v18.x
-React 18
-💖 React-hook-form v7
-🚓 MUI v5
-🖌 Zod v
+- ⚡️ React-hook-form v7
+- 🚓 Zod v3
+- 💖 MUI v5
+- ⚛️ React 18
+- ⛑ TypeScript
 
 ## Quick Start
 
