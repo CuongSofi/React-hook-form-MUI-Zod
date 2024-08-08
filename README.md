@@ -35,3 +35,5 @@ Open `http://localhost:3000` with your browser to see the result.
 - services: setting axios or fetch httpService for app
 - style: style for app
 - themes: setting colorTheme, font text,....
+- <img width="289" alt="Screenshot 2024-08-08 at 21 13 53" src="https://github.com/user-attachments/assets/a0a2115f-8640-4513-8d7d-d3688f3e3446">
+
