@@ -1,9 +1,10 @@
-import Login from "./pages/login";
+import { RouterProvider } from "react-router-dom";
+import router from "./routes";
 
 function App() {
   return (
-    <div className="App">
-      <Login />
+    <div className="App mt-20">
+      <RouterProvider router={router} />
     </div>
   );
 }
