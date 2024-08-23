@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "no-unreachable": "off",
+    "react-hooks/rules-of-hooks": 0,
+    "react-hooks/exhaustive-deps": 0,
+    "import/no-anonymous-default-export": 0,
+    "react/display-name": 0,
+    "no-multi-spaces": "off"
+  }
+}
